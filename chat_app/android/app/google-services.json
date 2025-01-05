@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "90964032072",
+    "project_id": "chat-app-27c9e",
+    "storage_bucket": "chat-app-27c9e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90964032072:android:02e57b548f93ba1602b67d",
+        "android_client_info": {
+          "package_name": "com.harit.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrkNegcyd_NceXPW1sQ2bWaPS1s6HLj4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
